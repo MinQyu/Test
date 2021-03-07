@@ -70,4 +70,8 @@ build/
 bld/
 [Bb]in/
 [Oo]bj/
+
 .vs/Test!!/v16/Browse.VC.opendb
+.vs/Test!!/v16/Browse.VC.db
+.vs/Test!!/v16/Browse.VC.db-shm
+.vs/slnx.sqlite
